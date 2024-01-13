@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup
-        run: ./manual_setup.sh
+        run: chmod +x manual_setup.sh && ./manual_setup.sh
 
 
       - name: Setup Hugo
