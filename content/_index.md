@@ -1,6 +1,6 @@
 ---
 header_brand: "Mum's Crochet"
-header_tagline_paragraph: "It's me, Diti"
+header_tagline_paragraph: "by Diti"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
